@@ -11,4 +11,5 @@ With a solid background in JavaScript and advanced proficiency in tools like Vis
 
 
 ⚡ Fun fact: I'm Professor of Language and Literature and teacher of dance.
+
 Let's code!
