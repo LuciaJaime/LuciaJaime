@@ -4,7 +4,7 @@
 
 Currently, I'm...
 - 🔭  Working on a project called CoffeeTimer with MERN technologies, focusing on user experience.
-- 🌱 Learning: Always looking to enhance my skills, currently focused on learn NodeJs and React, to complete my Full Stack profile.
+- 🌱 Always looking to enhance my hards and softs skills. Currently i'm focused on NodeJs, React and MongoDb, aiming to focus on Full Stack Development.
 With a solid background in JavaScript and advanced proficiency in tools like Visual Studio Code and Figma, I'm dedicated to crafting innovative solutions and exceptional user experiences. 
   
 📫 How to reach me: You can find me on [Linkedin](https://www.linkedin.com/in/jaime-maria-lucia/)
